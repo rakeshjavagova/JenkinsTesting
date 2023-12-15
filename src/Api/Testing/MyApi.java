@@ -11,4 +11,7 @@ public class MyApi {
         return "Hello, World!";
     }
 
+	public String my() {
+		return "j";
+	}
 }
