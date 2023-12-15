@@ -8,7 +8,7 @@ public class MyApi {
 	
 	@GET
     public String get() {
-        return "My world";
+        return "Api is Working...";
     }
 
 	
