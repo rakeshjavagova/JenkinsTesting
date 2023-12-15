@@ -12,6 +12,6 @@ public class MyApi {
     }
 
 	public String my() {
-		return "jrtr";
+		return "testcmess";
 	}
 }
